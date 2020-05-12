@@ -161,7 +161,7 @@ nav ul li {
     margin: 0px;
     display: inline-block;
     float: left;
-    padding: 10px;
+    padding: 7px;
 }
 
 /* Styling the links */
@@ -194,7 +194,6 @@ nav ul li ul li:hover {
 .menu li.active a,
 .menu li a:hover {
     color: #35ffcc;
-    margin-right: 30%;
     transition: 0.5s all;
     -webkit-transition: 0.5s all;
     -moz-transition: 0.5s all;
